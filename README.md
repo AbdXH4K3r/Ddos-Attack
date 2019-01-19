@@ -7,10 +7,10 @@
 <a href="https://www.python.org/download/releases/2.7/">https://www.python.org/download/releases/2.7/</a><br><br><br>
 <b>Second Step :</b>
 
-<pre>git clone https://github.com/AbdXH4K3r/Ddos-Attack.git</pre><br>
+<pre>git clone https://github.com/AbdXH4K3r/Ddos-Attack.git</pre>
 
 <p>Install Requirements:</p>
-<pre>pip install -r requirements.txt</pre><br><br><br>
+<pre>pip install -r requirements.txt</pre>
 
 <b>Final Step:</b>
 <p>Run The DDOS Script :</p>
