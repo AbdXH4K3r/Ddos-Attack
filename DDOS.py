@@ -1,20 +1,10 @@
 try:      
-    import requests,os,sys,random,time,platform
+    import requests,os,sys,random,time
 
 except:
     print("Import Error :\n please use 'pip install -r requirements.txt' to install requirements")
 
-#Functions
-def System_filter():
-    system_os = platform.system()
-    if system_os == "Windows":
-        os.system('cls')
 
-    if system_os == "Linux":
-        os.system('clear')
-
-
-System_filter()
 print ("""
         }===============Coded By Abdxslayer==============={
               - http://www.Github.com/ABDXH4K3r
@@ -22,7 +12,7 @@ print ("""
               - Email : As8apple@gmail.com.
         }================================================={\n""")
 target = raw_input("[+] Target URL (e.g: http://www.google.com) : ")
-System_filter()
+
 i=0
 def DDOS():
     try:
